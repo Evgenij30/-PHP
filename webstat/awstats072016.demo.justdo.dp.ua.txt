@@ -1,0 +1,337 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201607 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.demo.justdo.dp.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1997                
+POS_TIME 2678                
+POS_VISITOR 7615                
+POS_DAY 8319                
+POS_DOMAIN 3464                
+POS_LOGIN 3697                
+POS_ROBOT 3852                
+POS_WORMS 4205                
+POS_EMAILSENDER 4336                
+POS_EMAILRECEIVER 4479                
+POS_SESSION 8722                
+POS_SIDER 8928                
+POS_FILETYPES 4614                
+POS_DOWNLOADS 4814                
+POS_OS 4862                
+POS_BROWSER 4955                
+POS_SCREENSIZE 5186                
+POS_UNKNOWNREFERER 5260                
+POS_UNKNOWNREFERERBROWSER 5347                
+POS_ORIGIN 5429                
+POS_SEREFERRALS 5569                
+POS_PAGEREFS 5713                
+POS_SEARCHWORDS 5861                
+POS_KEYWORDS 6013                
+POS_MISC 2340                
+POS_ERRORS 6072                
+POS_CLUSTER 3553                
+POS_SIDER_404 6214                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160718042407 62 11397 11052400506860
+FirstTime 20160703105833
+LastTime 20160716230013
+LastUpdate 20160718050502 62 0 62 0 0
+TotalVisits 42                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 802 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 82 142 214951 24 30 37881
+1 0 0 0 28 38 67018
+2 2 2 12681 28 38 40986
+3 0 0 0 26 35 45553
+4 0 0 0 19 29 48538
+5 0 0 0 38 42 47360
+6 0 0 0 27 40 58328
+7 1 1 7624 22 31 272711
+8 0 0 0 14 22 31615
+9 14 26 112611 23 41 282214
+10 123 309 1179390 41 107 66783
+11 336 476 6132415 83 173 172404
+12 184 394 5463818 44 108 101409
+13 159 218 1443959 45 122 91224
+14 52 60 232840 35 60 62071
+15 3 4 12023 17 22 29255
+16 20 27 121458 21 29 51016
+17 37 41 166292 26 29 29441
+18 379 577 7835090 40 192 406516
+19 120 309 717981 39 94 80784
+20 348 615 6064645 42 182 139994
+21 372 586 6544927 73 199 170647
+22 554 939 3020211 122 231 248496
+23 526 786 2568790 48 113 108700
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 3312 5512 41851706
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+googlebot 111 739672 20160717220232 0
+bot[\s_+:,\.\;\/\\-] 70 369445 20160718042407 0
+favicon 16 43022 20160716092358 0
+baiduspider 15 35706 20160717184204 0
+yandex 3 247921 20160717182311 0
+crawl 2 4874 20160713034959 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 634 272914 0 0
+php 1 364 0 0
+png 883 27461496 0 0
+html 414 988853 0 0
+js 594 5302931 0 0
+Unknown 2897 7049808 0 0
+gif 89 775340 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 5
+macosx 16
+linuxandroid 41
+winxp 4
+linux 577
+win7 4874
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 11
+chrome51.0.2704.103 4844
+safari9.0 16
+firefox6.0.2 1
+chrome13.0.782.107 2
+chrome48.0.2564.116 363
+lg\- 41
+msie9.0 1
+firefox46.0 28
+opera9.80 1
+chrome12.0.742.122 1
+firefox47.0 214
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 737 737
+From1 0 0
+From2 0 0
+From3 0 0
+From4 2575 4775
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 117 50177
+302 451 533670
+500 23 13133
+404 364 208217
+301 1 455
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 27
+/admin/main 1 http://demo.justdo.dp.ua/admin
+/iuyiuy 1 -
+/dsdsdsd 1 -
+/robots.txt 69 -
+/images/img/smol_1468001603.png 13 http://demo.justdo.dp.ua/admin_goods/
+/cart.php 15 http://demo.justdo.dp.ua/tovar
+/dfsdfdsfdsf 1 -
+/trytryrty 1 -
+/wp-content/uploads/parasponsive_demo_img/2013/05/meta.pnq 3 -
+/trytry 1 -
+/images/img/images/img/smol_1468004043.png 10 http://demo.justdo.dp.ua/admin_goods/
+/gfdgfdg 1 -
+/categoriya%D0%B3%D0%BD%D0%B5%D0%B3%D0%BD%D0%B5%D0%B3 1 -
+/academics/content.php 197 -
+/%D0%B0%D0%B2%D0%BF%D0%B0%D0%B2%D0%BF 1 -
+/images/img/smol_1468003904.png 9 http://demo.justdo.dp.ua/admin_goods/
+/admin/index.php 1 -
+/admin_users_edit 2 http://demo.justdo.dp.ua/admin_users
+/admin_users 2 -
+/ertrt 2 -
+/images/img/smol_1468003091.png 10 http://demo.justdo.dp.ua/admin_goods/
+/wp-content/uploads/parasponsive_demo_img/2012/01/timturl.php 5 -
+/index.php 1 -
+/images/img/smol_1468003728.png 1 http://demo.justdo.dp.ua/admin_goods
+/fsdfdsf 2 -
+/images/img/smol_1468003428.png 5 http://demo.justdo.dp.ua/admin_goods/
+/images/img/1468004188.png 8 http://demo.justdo.dp.ua/admin_goods
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+188.247.108.121 2605 4496 25881358 20160716230013
+93.127.106.177 268 346 1964585 20160716142624
+217.117.64.202 105 129 626830 20160715183515
+217.117.64.201 100 153 284146 20160715183808
+217.117.64.207 92 150 6136801 20160715183816
+217.117.64.203 56 106 626865 20160715181249
+37.73.244.204 28 39 637856 20160715115421
+217.117.64.208 26 39 160448 20160715182952
+93.127.30.190 19 29 467444 20160709202350
+176.9.154.47 5 5 34520 20160713020918
+37.73.206.93 1 1 2656 20160706142429
+109.207.198.5 1 1 364 20160703111857
+37.73.214.226 4 15 5022656 20160706120923
+180.76.15.34 1 1 2437 20160715212615
+37.73.232.119 1 2 2740 20160715175432
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20160703 105 120 5153502 3
+20160704 121 208 268793 2
+20160705 77 140 6033049 4
+20160706 108 202 5271768 5
+20160707 144 235 341323 3
+20160708 353 699 14355420 1
+20160709 314 455 1844778 4
+20160711 50 140 109934 3
+20160712 367 624 1280732 1
+20160713 473 584 1250347 3
+20160714 66 107 174768 1
+20160715 331 490 2433713 8
+20160716 803 1508 3333579 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 13
+5mn-15mn 2
+2mn-5mn 3
+30s-2mn 4
+0s-30s 9
+15mn-30mn 9
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/404 786 1806759 4 9
+/cart 395 1066629 0 3
+/categoriya 323 866818 1 0
+/ 282 661411 28 8
+/tovar 274 735471 2 5
+/cart/orders 250 701477 2 2
+/admin_goods 176 400501 0 3
+/admin_users 143 321094 1 4
+/admin_users/edit 128 292188 1 2
+/admin 105 211879 1 1
+/admin_categoriya/ 103 260693 0 3
+/admin_goods/ 26 61432 0 0
+/admin_goods/edit 25 63094 0 0
+/admin_users/add 54 123884 0 0
+/mvc/ 1 367 1 0
+/main 1 364 0 0
+/cart/ 1 2872 0 0
+/index.php 1 364 0 0
+/index 1 364 0 0
+/authorization 72 63023 1 2
+/admin_goods/add 102 255719 0 0
+/admin/ 1 2078 0 0
+/cart/mail 62 140544 0 0
+END_SIDER
